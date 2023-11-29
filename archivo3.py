@@ -1,0 +1,1 @@
+print ("Archivo tres como nuestra estrella")
